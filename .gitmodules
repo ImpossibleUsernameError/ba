@@ -1,0 +1,6 @@
+[submodule "Praxis/hceimplementation"]
+	path = Praxis/hceimplementation
+	url = https://github.com/ImpossibleUsernameError/hceimplementation.git
+[submodule "Praxis/relayserver"]
+	path = Praxis/relayserver
+	url = https://github.com/ImpossibleUsernameError/relayserver.git
