@@ -1,0 +1,489 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.4 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{nfcSecurityAnalysisAndVulnerabilities}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Alzahrani}{A.}%
+     {Ali}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Alqhtani}{A.}%
+     {Abdullah}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Elmiligi}{E.}%
+     {Haytham}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gebali}{G.}%
+     {Fayez}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Yasein}{Y.}%
+     {Mohamed~S.}{M.~S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{AA+1}
+  \strng{fullhash}{AAAAEHGFYMS1}
+  \field{sortinit}{A}
+  \field{title}{NFC security analysis and vulnerabilities in healthcare
+  applications}
+  \verb{url}
+  \verb http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=6625493
+  \endverb
+  \field{journaltitle}{Communications, Computers and Signal Processing
+  (PACRIM), 2013 IEEE Pacific Rim Conference}
+  \field{year}{2013}
+  \field{urlday}{25}
+  \field{urlmonth}{01}
+  \field{urlyear}{2018}
+\endentry
+
+\entry{nfcRelayWithOffTheShelfHardAndSoftware}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Bocek}{B.}%
+     {Thomas}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Killer}{K.}%
+     {Christian}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tsiaras}{T.}%
+     {Christos}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stiller}{S.}%
+     {Burkhard}{B.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BT+1}
+  \strng{fullhash}{BTKCTCSB1}
+  \field{sortinit}{B}
+  \field{title}{An NFC Relay Attack with Off-the-shelf Hardware and Software}
+  \verb{url}
+  \verb https://link.springer.com/chapter/10.1007/978-3-319-39814-3_8
+  \endverb
+  \field{journaltitle}{10th IFIP WG 6.6 International Conference on Autonomous
+  Infrastructure, Management, and Security, AIMS 2016}
+  \field{year}{2016}
+  \field{urlday}{15}
+  \field{urlmonth}{01}
+  \field{urlyear}{2018}
+\endentry
+
+\entry{practicalNfcAttackmobileDevices}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Cavdar}{C.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tomur}{T.}%
+     {E.}{E.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IEEE}%
+  }
+  \strng{namehash}{CDTE1}
+  \strng{fullhash}{CDTE1}
+  \field{sortinit}{C}
+  \field{title}{A practical NFC relay attack on mobile devices using card
+  emulation mode}
+  \verb{url}
+  \verb http://ieeexplore.ieee.org/document/7160477/?reload=true
+  \endverb
+  \field{journaltitle}{2015 38th International Convention on Information and
+  Communication Technology, Electronics and Microelectronics (MIPRO)}
+  \field{year}{2015}
+  \field{urlday}{15}
+  \field{urlmonth}{01}
+  \field{urlyear}{2018}
+\endentry
+
+\entry{nfcVulnerabilitiesDefense}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Chattha}{C.}%
+     {Naveed~Ashraf}{N.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CNA1}
+  \strng{fullhash}{CNA1}
+  \field{sortinit}{C}
+  \field{title}{NFC — Vulnerabilities and defense}
+  \verb{url}
+  \verb http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6861328
+  \endverb
+  \field{journaltitle}{2014 Conference on Information Assurance and Cyber
+  Security (CIACS)}
+  \field{year}{2014}
+  \field{urlday}{25}
+  \field{urlmonth}{01}
+  \field{urlyear}{2018}
+\endentry
+
+\entry{relayAttackOfNfcSmartCards}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Chu}{C.}%
+     {Xiquing}{X.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CX1}
+  \strng{fullhash}{CX1}
+  \field{sortinit}{C}
+  \field{title}{Relay attacks of NFC smart cards}
+  \verb{url}
+  \verb https://brage.bibsys.no/xmlui/bitstream/handle/11250/262988/742061_FULL
+  \verb TEXT01.pdf?sequence=1&isAllowed=y]
+  \endverb
+  \list{institution}{2}{%
+    {Norwegian University of Science}%
+    {Technology - Trondheim}%
+  }
+  \field{type}{mathesis}
+  \field{year}{2014}
+  \field{urlday}{15}
+  \field{urlmonth}{01}
+  \field{urlyear}{2018}
+\endentry
+
+\entry{sonyPhillipsNfcPressRelease}{misc}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Corporation}{C.}%
+     {Sony}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Philips}{P.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{CSP1}
+  \strng{fullhash}{CSP1}
+  \field{sortinit}{C}
+  \field{title}{PHILIPS AND SONY ANNOUNCE STRATEGIC COOPERATION TO DEFINE NEXT
+  GENERATION NEAR FIELD RADIO-FREQUENCY COMMUNICATIONS}
+  \verb{url}
+  \verb https://www.sony.net/SonyInfo/News/Press_Archive/200209/02-0905E/
+  \endverb
+  \field{year}{2002}
+  \field{urlday}{24}
+  \field{urlmonth}{01}
+  \field{urlyear}{2018}
+\endentry
+
+\entry{practExpNfcSecurity}{misc}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Damme}{D.}%
+     {Gauthier~Van}{G.~V.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wouters}{W.}%
+     {Karel}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{DGVWK1}
+  \strng{fullhash}{DGVWK1}
+  \field{sortinit}{D}
+  \field{title}{Practical Experiences with NFC Security on mobile Phones}
+  \verb{url}
+  \verb https://www.esat.kuleuven.be/cosic/publications/article-1288.pdf
+  \endverb
+  \field{year}{2009}
+  \field{urlday}{25}
+  \field{urlmonth}{01}
+  \field{urlyear}{2018}
+\endentry
+
+\entry{practicalNfcPeerToPeerRelayMobilePhones}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Francis}{F.}%
+     {Lishoy}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hancke}{H.}%
+     {Gerhard}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mayes}{M.}%
+     {Keith}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Markantonakis}{M.}%
+     {Konstantinos}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{FL+1}
+  \strng{fullhash}{FLHGMKMK1}
+  \field{sortinit}{F}
+  \field{title}{Practical NFC Peer-to-Peer Relay Attack Using Mobile Phones}
+  \verb{url}
+  \verb https://link.springer.com/chapter/10.1007/978-3-642-16822-2_4
+  \endverb
+  \field{journaltitle}{International Workshop on Radio Frequency
+  Identification: Security and Privacy Issues}
+  \field{year}{2010}
+  \field{urlday}{15}
+  \field{urlmonth}{01}
+  \field{urlyear}{2018}
+\endentry
+
+\entry{practicalRelayContactlessTransactions}{misc}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Francis}{F.}%
+     {Lishoy}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hancke}{H.}%
+     {Gerhard}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mayes}{M.}%
+     {Keith}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Markantonakis}{M.}%
+     {Konstantinos}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{FL+1}
+  \strng{fullhash}{FLHGMKMK1}
+  \field{sortinit}{F}
+  \field{title}{Practical Relay Attack on Contactless Transactions by Using NFC
+  Mobile Phones}
+  \verb{url}
+  \verb http://modsec.zimmerle.org/wireless-sec-papers/Practical%20Relay%20Atta
+  \verb ck%20on%20Contactless%20Transactions%20by%20Using%20NFC%20Mobile%20Phon
+  \verb es.pdf
+  \endverb
+  \field{year}{2011}
+  \field{urlday}{15}
+  \field{urlmonth}{01}
+  \field{urlyear}{2018}
+\endentry
+
+\entry{securityNfc}{misc}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Haselsteiner}{H.}%
+     {Ernst}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Breitfuß}{B.}%
+     {Klemens}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HEBK1}
+  \strng{fullhash}{HEBK1}
+  \field{sortinit}{H}
+  \field{title}{Security in Near Field Communication (NFC)}
+  \verb{url}
+  \verb https://s3.amazonaws.com/academia.edu.documents/8360228/002%20-%20secur
+  \verb ity%20in%20nfc.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=15169129
+  \verb 12&Signature=sib36KcnIO0AAbNxqdEjxuId6TY%3D&response-content-dispositio
+  \verb n=inline%3B%20filename%3DSecurity_in_near_field_communication_NFC.pdf
+  \endverb
+  \field{year}{2006}
+  \field{urlday}{25}
+  \field{urlmonth}{01}
+  \field{urlyear}{2018}
+\endentry
+
+\entry{nfcTechVulnAttack}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Institute}{I.}%
+     {Infosec}{I.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{II1}
+  \strng{fullhash}{II1}
+  \field{sortinit}{I}
+  \field{title}{Near Field Communication (NFC) Technology, Vulnerabilities and
+  Principal Attack Schema}
+  \verb{url}
+  \verb http://resources.infosecinstitute.com/near-field-communication-nfc-tech
+  \verb nology-vulnerabilities-and-principal-attack-schema/
+  \endverb
+  \field{year}{2013}
+  \field{urlday}{24}
+  \field{urlmonth}{01}
+  \field{urlyear}{2018}
+\endentry
+
+\entry{rtt}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {ITWissen.info}{I.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{I1}
+  \strng{fullhash}{I1}
+  \field{sortinit}{I}
+  \field{title}{RTT (round trip time}
+  \verb{url}
+  \verb http://www.itwissen.info/round-trip-time-RTT.html
+  \endverb
+  \field{year}{2014}
+  \field{urlday}{25}
+  \field{urlmonth}{01}
+  \field{urlyear}{2018}
+\endentry
+
+\entry{pickingVirtualPockets}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Kfir}{K.}%
+     {Z.}{Z.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wool}{W.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{KZWA1}
+  \strng{fullhash}{KZWA1}
+  \field{sortinit}{K}
+  \field{title}{Picking Virtual Pockets using Relay Attacks on Contactless
+  Smartcard}
+  \verb{url}
+  \verb http://ieeexplore.ieee.org/abstract/document/1607558/
+  \endverb
+  \field{journaltitle}{First International Conference on Security and Privacy
+  for Emerging Areas in Communications Networks (SECURECOMM'05)}
+  \field{year}{2005}
+  \field{urlday}{15}
+  \field{urlmonth}{01}
+  \field{urlyear}{2018}
+\endentry
+
+\entry{nfcDevicesSecurityPrivacy}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Madlmayr}{M.}%
+     {Gerald}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Langer}{L.}%
+     {Josef}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kantner}{K.}%
+     {Christian}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Scharinger}{S.}%
+     {Josef}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MG+1}
+  \strng{fullhash}{MGLJKCSJ1}
+  \field{sortinit}{M}
+  \field{title}{NFC Devices: Security and Privacy}
+  \verb{url}
+  \verb http://ieeexplore.ieee.org/abstract/document/4529403/?part=1
+  \endverb
+  \field{journaltitle}{2008 Third International Conference on Availability,
+  Reliability and Security}
+  \field{year}{2008}
+  \field{urlday}{25}
+  \field{urlmonth}{01}
+  \field{urlyear}{2018}
+\endentry
+
+\entry{nfcForum}{misc}{}
+  \field{sortinit}{N}
+  \field{title}{NFC Forum}
+\endentry
+
+\entry{practicalExperiencesNfcRelayAndroid}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Vila}{V.}%
+     {Jos{\'e}}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rodr\'iguez}{R.}%
+     {Ricardo~J.}{R.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{VJRRJ1}
+  \strng{fullhash}{VJRRJ1}
+  \field{sortinit}{V}
+  \field{title}{Practical Experiences on NFC Relay Attacks with Android}
+  \verb{url}
+  \verb https://link.springer.com/chapter/10.1007/978-3-319-24837-0_6
+  \endverb
+  \field{journaltitle}{International Workshop on Radio Frequency
+  Identification: Security and Privacy Issues}
+  \field{year}{2015}
+  \field{urlday}{15}
+  \field{urlmonth}{01}
+  \field{urlyear}{2018}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

@@ -1,0 +1,24 @@
+An Off-the-shelf Relay Attack in a Contactless
+Payment Solution
+
+Christian Killer, Christos Tsiaras, Burkhard Stiller
+
+Implementierung Relay mit 2 Tablets und der Software NFCProxy und Cyanogenmod (ASUS Nexus 7)
+sowie einem Wireless Router und einer VISA Kreditkarte
+
+
+
+
+
+Practical Relay Attack on Contactless Transactions
+by Using NFC Mobile Phones
+
+Lishoy Francis, Gerhard Hancke, Keith Mayes, Konstantinos Markantonakis
+Information Security Group, Smart Card Centre
+Royal Holloway University of London
+Egham Hill, TW20 0EX, Surrey, United Kingdom
+
+Implementierung einer Relay-Attacke mit 2 Smartphones und selbst entwickelten Applikationen.
+Ganz ohne Entsperren der Geräte, ohne Secure Element sowie keine Modifikationen an 
+Soft- oder Hardware der Geräte. Kommunikation zwischen den Geräten über Bluetooth. 
+Ausprobiert mit einem Contactless Reader und einer Java Card. 

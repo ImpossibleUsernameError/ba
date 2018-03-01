@@ -1,0 +1,46 @@
+Kurzzusammenfassung
+
+Inhaltsverzeichnis
+
+Einleitung
+  Problemstellung
+  Motivation
+  Zielsetzung
+  Gliederung 
+  Abgrenzung
+
+Grundlagen und Hintergründe
+  NFC Grundlagen
+    Technische Grundlagen
+    Zahlung mittels NFC
+  NFC auf mobilen Geräten
+    Funktionsweise und Anwendung
+    Host-Based Card Emulation
+    Mobile-Payment Applikationen
+  NFC Sicherheitsrisiken
+  Angriffe auf NFC Schnittstellen
+  NFC Sicherheitsmechanismen
+  NFC Relay Attacken
+    Prinzip
+    Praktische Anwendung 
+    Praktische Implementierungen
+    Gegenmaßnahmen
+
+Related Work
+
+Eigene Implementierung einer NFC Relay Attacke (die es so noch nicht gibt)
+  Prinzip auf dem der Angriff funktioniert
+  Eingesetzte Mittel zur Durchführung
+  Implementierung
+     Schritte von Anfang bis Ende
+
+Analyse der Attacke und Gegenmaßnahmen
+  Resultate
+  Anwendbarkeit (leicht durchzuführen, spezielle Kenntnisse erforderlich)
+  Folgen und Risiken
+  Mögliche Bedeutung
+  Gegenmaßnahmen 
+
+Zusammenfassung
+Quellen
+  

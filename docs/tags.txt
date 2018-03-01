@@ -1,0 +1,12 @@
+Tags:
+
+6F: File Control Information (FCI) Template 
+84: Dedicated File (DF) Name
+A5: FCI Proprietary Template
+50: Application Label
+5f2D: Language Preference
+9F38: Processing Options Data Object List (PDOL)
+87: Application Priority Indicator
+9F11: Issuer Code Table Index
+9F12: FCI Issuer Discretionary Data
+9F4D: Log Entry
